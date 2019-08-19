@@ -10,7 +10,7 @@ This wheel was developed to demonstrate a simple UDF using Azure Open Datasets, 
 
 **See Article to learn how to attach wheel to Azure Databricks**
 
-
+Current whl build is in the **dist** folder
 
 ### Use new library
 ```
