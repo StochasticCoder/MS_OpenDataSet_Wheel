@@ -1,1 +1,0 @@
-from DemoWheel import weatherfunc
